@@ -1,0 +1,9 @@
+Building EmergencyCoin
+
+See doc/readme-qt.rst for instructions on building EmergencyCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EmergencyCoin.
+
+See doc/build-*.txt for instructions on building emergencycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EmergencyCoin.
